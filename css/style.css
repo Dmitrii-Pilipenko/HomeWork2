@@ -312,9 +312,17 @@ footer {
 }
 
 .burger-hr {
-    width: 18px;
+    width: 100%;
     height: 2px;
     background-color: #FAFAFA;
+}
+
+.mobile-only {
+    display: none;
+}
+
+.desktop-only {
+    display: inherit;
 }
 
 @media (max-width: 1220px) {
