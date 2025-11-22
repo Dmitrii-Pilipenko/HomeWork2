@@ -247,7 +247,7 @@ footer {
         font-weight: bold;
     }
     li {
-        list-style: circle;
+        list-style: disc;
         font-size: 18px;
         list-style-position: inside;
         line-height: 130%;
